@@ -1,6 +1,6 @@
 # storybook
 
-Your OpenAI API Key should be stored as an environmental variable named "`OPENAI_API_KEY`
+Your OpenAI API Key should be stored as an environmental variable named `OPENAI_API_KEY`
 
 Run the following when you first clone the repo
 ```
